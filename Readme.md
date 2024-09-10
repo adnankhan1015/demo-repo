@@ -1,3 +1,4 @@
 # Demo 
 This is the readme file
-Adding next line 
+
+I have deleted the previous line.
